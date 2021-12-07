@@ -11,10 +11,10 @@
              <p>Student, Developer, Painter</p>
 
              <ul class="list-unstyled list-social">
-                 <li><a href="#"><i class="bi bi-facebook"></i></a></li>
-                 <li><a href="#"><i class="bi bi-twitter"></i></a></li>
-                 <li><a href="#"><i class="bi bi-instagram"></i></a></li>
-                 <li><a href="#"><i class="bi bi-linkedin"></i></a></li>
+                 <li><a href="https://www.facebook.com/sdatok"target="_blank"><i class="bi bi-facebook"></i></a></li>
+                 <li><a href="https://twitter.com/sonayuum"target="_blank"><i class="bi bi-twitter"></i></a></li>
+                 <li><a href="https://www.instagram.com/sonam.xxi/"target="_blank"><i class="bi bi-instagram"></i></a></li>
+                 <li><a href="https://www.linkedin.com/in/sonam-datok/"target="_blank"><i class="bi bi-linkedin"></i></a></li>
              </ul>
          </div>
      </div>
@@ -69,8 +69,8 @@
                      <div class="swiper-slide">
                          <div class="services-block">
                              <i class="bi bi-card-checklist"></i>
-                             <span>BRAND IDENTITY</span>
-                             <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                             <span>HACK-A-THONS</span>
+                             <p class="separator">Participated in RU Hacks, UOttawa Designathon, and third place winner of the 2020 Ryerson Engineering Competition </p>
                          </div>
                      </div><!-- End testimonial item -->
 
@@ -95,16 +95,16 @@
                      <div class="swiper-slide">
                          <div class="services-block">
                              <i class="bi bi-brightness-high"></i>
-                             <span>Analytics</span>
-                             <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                             <span>SKILLS</span>
+                             <p class="separator">Experience coding in Java, CSS, PHP, Node.js, Unix, C, Pug.js, SQL, Python, and R. Familiar with software such as; AutoCAD, Photoshop, and Microsoft Office </p>
                          </div>
                      </div><!-- End testimonial item -->
 
                      <div class="swiper-slide">
                          <div class="services-block">
                              <i class="bi bi-calendar4-week"></i>
-                             <span>PHOTOGRAPHY</span>
-                             <p class="separator">To an English person, it will seem like simplified English,told me what </p>
+                             <span>INVESTING</span>
+                             <p class="separator">Completed thorough due diligence and created successful portfolios on medicinal psychedelic stocks and companies involved in a generational short squeeze</p>
                          </div>
                      </div><!-- End testimonial item -->
 
@@ -132,7 +132,7 @@
                      <ul id="portfolio-flters">
                          <li data-filter="*" class="filter-active">All</li>
                          <li data-filter=".filter-app">App</li>
-                         <li data-filter=".filter-card">Card</li>
+                         <li data-filter=".filter-build">Build</li>
                          <li data-filter=".filter-web">Web</li>
                      </ul>
                  </div>
@@ -140,56 +140,57 @@
 
              <div class="row portfolio-container">
 
-                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                     <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-                     <div class="portfolio-info">
-                         <h4>App 1</h4>
-                         <p>App</p>
-                         <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-                         <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                     </div>
-                 </div>
-
                  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                     <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+                     <img src="assets/img/portfolio/stempowering.jpg" class="img-fluid" alt="">
                      <div class="portfolio-info">
-                         <h4>Web 3</h4>
+                         <h4>Front-end & Back-end</h4>
                          <p>Web</p>
-                         <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                         <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                         <a href="assets/img/portfolio/stempowering.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="STEM Powering is a not-for-profit youth organization supported by STEM-educated volunteers who would like to inspire and empower youth by sharing their knowledge and skills."><i class="bx bx-plus"></i></a>
+                         <a href="https://www.stempowering.ca/" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                      </div>
                  </div>
 
                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                     <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+                     <img src="assets/img/portfolio/coinsavr.jpg" class="img-fluid" alt="">
                      <div class="portfolio-info">
-                         <h4>App 2</h4>
+                         <h4>UI/UX & A/B Testing</h4>
                          <p>App</p>
-                         <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-                         <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                         <a href="assets/img/portfolio/coinsavr.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="CoinSavr is an escrow transfer service that holds funds internally within our servers. The BTC transaction is only processed once both parties are satisfied with the transaction."><i class="bx bx-plus"></i></a>
+                         <a href="https://www.coinsavr.com/" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                      </div>
                  </div>
 
-                 <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                     <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-build">
+                     <img src="assets/img/portfolio/tesladash.jpg" class="img-fluid" alt="">
                      <div class="portfolio-info">
-                         <h4>Card 2</h4>
-                         <p>Card</p>
-                         <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                         <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                         <h4>Design</h4>
+                         <p>Build</p>
+                         <a href="assets/img/portfolio/tesladash.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Designed a model dashboard on AutoCAD for an autonomous vehicle to include a stow-able steering wheel and touch-screen dashboard controls"><i class="bx bx-plus"></i></a>
+                         <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
                      </div>
                  </div>
+
+                 <div class="col-lg-4 col-md-6 portfolio-item filter-build">
+                     <img src="assets/img/portfolio/pc.jpg" class="img-fluid" alt="">
+                     <div class="portfolio-info">
+                         <h4>PC Specs</h4>
+                         <p>Build</p>
+                         <a href="assets/img/portfolio/pc.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Ryzen 5 3600, GeForce RTX 2060 SUPER"><i class="bx bx-plus"></i></a>
+                         <a href="portfolio-details.html" class="details-link" title="More Details"></i></a>
+                     </div>
+                 </div>
+
 
                  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                     <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+                     <img src="assets/img/portfolio/ieee.jpg" class="img-fluid" alt="">
                      <div class="portfolio-info">
-                         <h4>Web 2</h4>
+                         <h4>IEEE</h4>
                          <p>Web</p>
-                         <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                         <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                         <a href="assets/img/portfolio/ieee.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Ryerson IEEE Computer Society software fundementals series certification in PHP, SQL, Git, and Unix"><i class="bx bx-plus"></i></a>
+                         <a href="https://ieeeryerson.com/" target="_blank" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                      </div>
                  </div>
-
+<!--
                  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                      <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
                      <div class="portfolio-info">
@@ -199,6 +200,7 @@
                          <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
                      </div>
                  </div>
+-->
 
              </div>
 
@@ -208,7 +210,7 @@
 
      <!-- ======= Journal Section ======= -->
      <div id="journal" class="text-left paddsection">
-
+<!--
          <div class="container">
              <div class="section-title text-center">
                  <h2>journal</h2>
@@ -271,6 +273,8 @@
              </div>
          </div>
 
+-->
+
      </div><!-- End Journal Section -->
 
      <!-- ======= Contact Section ======= -->
@@ -285,8 +289,7 @@
                              <h2 class="mb-30">GET IN TOUCH</h2>
 
                              <ul class="contact-details">
-                                 <li><span>71 Burlington st</span></li>
-                                 <li><span>Toronto, Canada</span></li>
+                                 <li><span>Toronto, ON</span></li>
                                  <li><span>(647) 760 5507</span></li>
                                  <li><span>datoksonam@gmail.com</span></li>
                              </ul>
